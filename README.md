@@ -1,9 +1,17 @@
-## Text Generation using LSTM ( Long Short Term Memory)
+##  Sentiment Analysis using LSTM ( Long Short Term Memory)
 
-Text Generation is a type of Language Modelling problem. 
 
-Language Modelling is the core problem for a number of of natural language processing tasks such as speech to text, conversational system, and text summarization. 
+![sentiment-fig-1-689](https://user-images.githubusercontent.com/85668824/126865811-5ca0dfc7-5ef8-46b0-a4d5-12c1de36ae2e.jpg)
 
-A trained language model learns the likelihood of occurrence of a word based on the previous sequence of words used in the text. Language models can be operated at character level, n-gram level, sentence level or even paragraph level. 
 
-In the notebook attached, I have performed analysis on the reviews of the movies and their sentiment to train a text generation language model which can be used to generate reviews
+Performing sentiment analysis on a dataset of plain-text IMDB movie reviews.
+
+## Context
+
+A movie review dataset. NLP tasks Sentiment Analysis.
+
+Note : all the movie review are long sentence(most of them are longer than 200 words.)
+
+## Content
+
+Two columns used (text : the review of the movie and label : the sentiment label of the movie review)
