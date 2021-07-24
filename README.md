@@ -15,3 +15,5 @@ Note : all the movie review are long sentence(most of them are longer than 200 w
 ## Content
 
 Two columns used (text : the review of the movie and label : the sentiment label of the movie review)
+
+Dataset URL: <a href='https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format'>LINK</a>
